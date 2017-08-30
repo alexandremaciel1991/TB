@@ -1,0 +1,1 @@
+jmetal.experiments.settings.WASFGA_Settings

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/metaheuristics/singleObjective/geneticAlgorithm/GA_main.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/busca/MovimentoTrocaTime.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/TrocaOutroEstado.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/TrocaRodadas.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/busca/BuscaTabu.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/Distancia.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/EscolherMutacao.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/encodings/solutionType/PermutationSolutionType.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/MandosCampo.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/TrocaRegional.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/core/SolutionSet.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/ManipuladorArquivo.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/busca/ListaTabu.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/TrocaTimes.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/encodings/solutionType/ArrayRealSolutionType.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/TrocaRodadasEMando.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/mutacao/TrocaEntreClassicos.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/operators/localSearch/MutationLocalSearch.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/operators/localSearch/LocalSearch.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/TCBFSolutionType.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/TCBF1.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/core/Solution.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/Problema.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/metaheuristics/singleObjective/geneticAlgorithm/pgGA_main.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/TCBF_main.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/Variable/ArrayTime.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/core/Algorithm.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/core/Problem.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/metaheuristics/singleObjective/geneticAlgorithm/TSPGA_main.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/Times.java</file>
+            <file>file:/D:/Ufop/TCC/VArios%20Codigos/jmetal/encodings/solutionType/ArrayRealAndBinarySolutionType.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/MatrizTempo.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/Rodada.java</file>
+            <file>file:/D:/Ufop/TCC/Desenvolvimento/Beta%201/TCBF/src/tcbf/Variable/MatrizVariable.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-18T21:56:48</date>
+  <millis>1489885008027</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>tcbf.TCBF_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Tempo total de execução: 5718ms</message>
+</record>
+<record>
+  <date>2017-03-18T21:56:48</date>
+  <millis>1489885008116</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>tcbf.TCBF_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variaveis foram escuitos no arquivo Resultado</message>
+</record>
+<record>
+  <date>2017-03-18T21:56:48</date>
+  <millis>1489885008148</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>tcbf.TCBF_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Melhores resultados foram escritos no arquivo FUN</message>
+</record>
+</log>
